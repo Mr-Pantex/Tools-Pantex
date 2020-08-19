@@ -9,7 +9,7 @@ $pkg install php <br>
 $pkg install python2 <br>
 $pkg install curl <br>
 $git clone https://github.com/Mr-Pantex/Tools-Pantex.git <br>
-cd MasterTools <br>
+cd MasterToos <br>
 sh new.sh
 
 
